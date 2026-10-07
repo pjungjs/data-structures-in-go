@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Compiled binaries
+/data-structures-in-go
+/main
+*.exe
+*.test
+*.out
+
+# Go tooling output
+coverage.txt
+coverage.html
+go.work
+go.work.sum
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Replit
+.replit
+replit.nix
+.config/
+.agents/
